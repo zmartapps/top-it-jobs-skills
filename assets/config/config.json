@@ -23,7 +23,7 @@
     "getAllListByCountryByTypeHist": "https://topitjobs.000webhostapp.com/getAllListByCountryByTypeHist.php",
     "getListByTypeHist": "https://topitjobs.000webhostapp.com/getListByTypeHist.php",
     "getSumAllCountryHist": "https://topitjobs.000webhostapp.com/getSumAllCountryHist.php",
-    "getListLowSkills": "http://topitjobs.000webhostapp.com/getListLowSkills.php"
+    "getListLowSkills": "https://topitjobs.000webhostapp.com/getListLowSkills.php"
     
     
 }
